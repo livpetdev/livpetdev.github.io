@@ -47557,9 +47557,9 @@ $S:0}
 Y.qX.prototype={
 an:function(){return new Y.RF(C.n)}}
 Y.RF.prototype={
-F:function(a){var u="https://map.naver.com/local/siteview.nhn?code=",t=null
-P.a2s(C.c.J(u,this.a.c))
-return M.ih(new Q.f8(E.j0(t,!1,C.o,t,T.bb(H.d([B.fO(C.p,U.bI("assets/icon/ic_back_black.png",C.w,t,t),20,new Y.RG(a),t),U.bI("assets/icon/ic_main_livpet.png",C.w,24,65)],[N.a2]),C.y,t,C.D,C.u,C.H)),new P.C(1/0,55),t),new A.uY(C.c.J(u,this.a.c),C.rg,t),t,t)},
+F:function(a){var u=null
+P.a2s(C.c.J("https://map.naver.com/local/siteview.nhn?code=",this.a.c))
+return M.ih(new Q.f8(E.j0(u,!1,C.o,u,T.bb(H.d([B.fO(C.p,U.bI("assets/icon/ic_back_black.png",C.w,u,u),20,new Y.RG(a),u),U.bI("assets/icon/ic_main_livpet.png",C.w,24,65)],[N.a2]),C.y,u,C.D,C.u,C.H)),new P.C(1/0,55),u),new A.uY(C.c.J("https://m.place.naver.com/place/",this.a.c),C.rg,u),u,u)},
 $aQ:function(){return[Y.qX]}}
 Y.RG.prototype={
 $0:function(){K.cQ(this.a,!1).kt(!0)},
